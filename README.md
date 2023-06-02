@@ -1,21 +1,12 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### Date created: 02-06-2023
 
-### Date created
-Include the date you created this project and README file.
+### Title: Data Analysis of BikeShare in US
 
-### Project Title
-Replace the Project Title
+### Objective: Performing data analysis and research on US BikeShare data
 
-### Description
-Describe what your project is about and what it does
+### Files used: New York, CHiccago and Washington Bike share data files.
 
-### Files used
-Include the files used
+### Credits: All the credits go to Udacity for teaching Python, SQL and GIT.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-### First edit to the file.
-### Second edit to the file.
-#refactoring edit on ReadMe.md file
 
